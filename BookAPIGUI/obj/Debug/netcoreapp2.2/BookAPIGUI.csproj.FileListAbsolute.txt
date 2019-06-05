@@ -1,0 +1,122 @@
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.deps.json
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.runtimeconfig.json
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.runtimeconfig.dev.json
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.dll
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.pdb
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csproj.CoreCompileInputs.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorAssemblyInfo.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorAssemblyInfo.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.AssemblyInfoInputs.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.AssemblyInfo.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorTargetAssemblyInfo.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.dll
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.pdb
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csprojAssemblyReference.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csproj.CopyComplete
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.Views.dll
+C:\Users\Romeo\Desktop\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.Views.pdb
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.TagHelpers.input.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.TagHelpers.output.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorCoreGenerate.cache
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorTargetAssemblyInfo.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.Views.pdb
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\GetCountryById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\GetCategoryById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\GetReviewerById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\GetReviewById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\GetAuthorById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\GetBookById.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navigation.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\CreateCountry.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\UpdateCountry.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\DeleteCountry.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\CreateCategory.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\UpdateCategory.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\DeleteCategory.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\CreateReviewer.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\UpdateReviewer.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\DeleteReviewer.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ReviewersList\_ReviewersList.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\CreateReview.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\UpdateReview.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\DeleteReview.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\CreateAuthor.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CountriesList\_CountriesList.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\UpdateAuthor.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\DeleteAuthor.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBook.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\UpdateBook.g.cshtml.cs
+C:\Users\Romeo\Desktop\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteBook.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.deps.json
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.runtimeconfig.json
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.runtimeconfig.dev.json
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.dll
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.pdb
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.Views.dll
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookAPIGUI.Views.pdb
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookApiProject.dll
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csprojAssemblyReference.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csproj.CoreCompileInputs.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorAssemblyInfo.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorAssemblyInfo.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.AssemblyInfoInputs.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.AssemblyInfo.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.TagHelpers.input.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.TagHelpers.output.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorCoreGenerate.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\CreateAuthor.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\DeleteAuthor.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\GetAuthorById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Authors\UpdateAuthor.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\CreateCategory.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\DeleteCategory.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\GetCategoryById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\UpdateCategory.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\CreateCountry.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\DeleteCountry.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\GetCountryById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Countries\UpdateCountry.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBook.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteBook.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\GetBookById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\UpdateBook.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\CreateReviewer.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\DeleteReviewer.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\GetReviewerById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviewers\UpdateReviewer.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\CreateReview.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\DeleteReview.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\GetReviewById.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\Index.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Reviews\UpdateReview.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CountriesList\_CountriesList.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ReviewersList\_ReviewersList.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Navigation.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorTargetAssemblyInfo.cache
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.RazorTargetAssemblyInfo.cs
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.Views.pdb
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.csproj.CopyComplete
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.dll
+F:\Udemy\Step-By-Step Consume Web API in ASP.Net Core MVC\BookAPIGUI\obj\Debug\netcoreapp2.2\BookAPIGUI.pdb
